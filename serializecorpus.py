@@ -10,7 +10,7 @@ from gensim import corpora, models
 
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
-name = 'rignasofa_text2'
+name = 'xxxx'
 num = 0
 
 #Jumanppオブジェクト
