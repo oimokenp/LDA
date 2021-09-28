@@ -12,7 +12,7 @@ from gensim import corpora, models
 
 # logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 TOPIC_NUM = 10
-name = 'rignasofa_text2'
+name = 'xxxx'
 
 #コーパス・辞書の読み込み
 corpus = corpora.MmCorpus('../corpus/{0}_corpus.mm'.format(name))
